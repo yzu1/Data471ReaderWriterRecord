@@ -1,0 +1,16 @@
+song_id,title,artist,album,genre,release_year,duration_sec,rating,plays,favorite,last_played
+1,TT,TWICE,TWICEcoaster: Lane 1,K-Pop,2016,213,5,58,TRUE,2026-09-28
+2,Fancy,TWICE,Fancy You,K-Pop,2019,213,4,34,FALSE,2026-09-11
+3,What Is Love?,TWICE,What Is Love?,K-Pop,2018,208,4,27,FALSE,2026-08-19
+4,ASAP,STAYC,Stereotype,K-Pop,2021,189,5,46,TRUE,2026-09-30
+5,Teddy Bear,STAYC,Teddy Bear,K-Pop,2023,180,4,21,FALSE,2026-08-02
+6,Hype Boy,NewJeans,New Jeans,K-Pop,2022,179,5,71,TRUE,2026-10-01
+7,Ditto,NewJeans,OMG,K-Pop,2022,185,5,63,TRUE,2026-09-26
+8,Super Shy,NewJeans,Get Up,K-Pop,2023,154,4,39,FALSE,2026-09-14
+9,How Sweet,NewJeans,How Sweet,K-Pop,2024,219,4,25,FALSE,2026-07-22
+10,Dynamite,BTS,BE,K-Pop,2020,199,4,44,FALSE,2026-09-05
+11,Spring Day,BTS,You Never Walk Alone,K-Pop,2017,274,5,52,TRUE,2026-09-21
+12,Boy With Luv (feat. Halsey),BTS,Map of the Soul: Persona,K-Pop,2019,229,4,30,FALSE,2026-08-27
+13,GO!,CORTIS,COLOR OUTSIDE THE LINES,K-Pop,2025,170,5,38,TRUE,2026-10-02
+14,What You Want,CORTIS,COLOR OUTSIDE THE LINES,K-Pop,2025,194,4,29,FALSE,2026-09-18
+15,FaSHioN,CORTIS,COLOR OUTSIDE THE LINES,K-Pop,2025,174,5,33,TRUE,2026-09-29
